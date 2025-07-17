@@ -1,7 +1,6 @@
 # ECPA 2025 – Poster Materials and Supplementary Information
 
-This repository contains supplementary materials for the two research posters presented at the  
-**16th European Conference on Psychological Assessment (ECPA 2025)** in Barcelona, Spain.
+This repository contains supplementary materials for the two research posters presented at the **16th European Conference on Psychological Assessment (ECPA 2025)** in Barcelona, Spain.
 
 ---
 
@@ -21,7 +20,8 @@ PhD. Lucía Alvarez-Nuñez¹² and PhD. Alejandro Vásquez-Echeverría²
 ## 📌 Poster 2  
 **Daily dynamics of the Consideration of Future Consequences (CFC) and well-being in romantic couples: A multilevel approach**  
 **Authors:**  
-PhD. Lucía Alvarez-Nuñez¹²³, PhD. Alejandro Vásquez-Echeverría², PhD. Mirko Antino³  
+PhD. Lucía Alvarez-Nuñez¹²³, PhD. Alejandro Vásquez-Echeverría², PhD. Mirko Antino³ and PhD. Alfredo Rodríguez-Muñoz ³
+ 
 ¹ Eurecat – Technology Centre of Catalonia (Spain)  
 ² Faculty of Psychology, University of the Republic (Uruguay)  
 ³ Faculty of Psychology, Complutense University of Madrid (UCM, Spain)  
